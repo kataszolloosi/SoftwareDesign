@@ -1,4 +1,4 @@
-package Mitarbeiter;
+package VerhaltnisPattern.Mitarbeiter;
 
 import java.util.ArrayList;
 
@@ -12,7 +12,7 @@ public class MitarbeiterManager {
 
     public void addMitarbeiter(Mitarbeiter m){
         mitarbeiterListe.add(m);
-        System.out.println("Mitarbeiter: " + m.getName()+ "zu Liste hinzugefügt");
+        System.out.println("VerhaltnisPattern.Simuduck.Mitarbeiter: " + m.getName()+ " zu Liste hinzugefügt");
     }
 
     public void berechneProvision() {

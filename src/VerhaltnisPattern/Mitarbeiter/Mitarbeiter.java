@@ -1,4 +1,4 @@
-package Mitarbeiter;
+package VerhaltnisPattern.Mitarbeiter;
 
 public class Mitarbeiter {
     private String name;

@@ -1,4 +1,4 @@
-package Simuduck;
+package VerhaltnisPattern.Simuduck;
 
 public class Rotkopfente extends Ente {
     public Rotkopfente(String name) {

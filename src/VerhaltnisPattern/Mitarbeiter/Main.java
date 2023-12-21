@@ -1,6 +1,4 @@
-package Mitarbeiter;
-
-import java.util.ArrayList;
+package VerhaltnisPattern.Mitarbeiter;
 
 public class Main {
     public static void main(String[] args) {

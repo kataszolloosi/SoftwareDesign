@@ -1,4 +1,4 @@
-package Mitarbeiter;
+package VerhaltnisPattern.Mitarbeiter;
 
 public class GewinnStrategie implements ProvisionsStrategie {
     @Override

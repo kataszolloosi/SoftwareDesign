@@ -1,4 +1,4 @@
-package Simuduck;
+package VerhaltnisPattern.Simuduck;
 
 public abstract class Ente {
     private String name;
