@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Simuduck;
+package StrategyPattern.Simuduck;
 
 import java.util.ArrayList;
 

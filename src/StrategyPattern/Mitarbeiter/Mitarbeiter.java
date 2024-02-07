@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Mitarbeiter;
+package StrategyPattern.Mitarbeiter;
 
 public class Mitarbeiter {
     private String name;

@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Mitarbeiter;
+package StrategyPattern.Mitarbeiter;
 
 public class Main {
     public static void main(String[] args) {

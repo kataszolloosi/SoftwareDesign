@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Simuduck;
+package StrategyPattern.Simuduck;
 
 public class Stockente extends Ente{
 

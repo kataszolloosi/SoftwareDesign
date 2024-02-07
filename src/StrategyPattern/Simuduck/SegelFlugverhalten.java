@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Simuduck;
+package StrategyPattern.Simuduck;
 
 public class SegelFlugverhalten implements Flugverhalten{
     @Override

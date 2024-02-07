@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Mitarbeiter;
+package StrategyPattern.Mitarbeiter;
 
 import java.util.ArrayList;
 

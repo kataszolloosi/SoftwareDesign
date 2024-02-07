@@ -1,4 +1,4 @@
-package VerhaltnisPattern.Simuduck;
+package StrategyPattern.Simuduck;
 
 public class Gummiente extends Ente{
     public Gummiente(String name) {
